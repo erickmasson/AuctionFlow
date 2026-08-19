@@ -1,13 +1,13 @@
-package com.auctioni_flow;
+package com.auction_flow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AuctioniFlowApplication {
+public class AuctionFlowApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AuctioniFlowApplication.class, args);
+		SpringApplication.run(AuctionFlowApplication.class, args);
 	}
 
 }
